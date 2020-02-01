@@ -1,0 +1,148 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=next%2Fdist%2Fpages%2F_app! node_modules/next/dist/client/router.js": 0,
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js! node_modules/next/dist/client/router.js": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "framework": 2,
+      "584411949c31ae84b991f5caa3cbee411fff7997": 3,
+      "static/CTKoZcq2MYc5UJFsWGcYB/pages/_app.js": 4,
+      "static/CTKoZcq2MYc5UJFsWGcYB/pages/_error.js": 5,
+      "static/CTKoZcq2MYc5UJFsWGcYB/pages/auth.js": 6,
+      "static/runtime/main.js": 7,
+      "static/runtime/polyfills.js": 8,
+      "668b7ee010966799109d7bbeb0f941b98021c000": 9,
+      "static/KS8pQdeN9iECnramGRS17/pages/_app.js": 10,
+      "static/KS8pQdeN9iECnramGRS17/pages/_error.js": 11,
+      "static/KS8pQdeN9iECnramGRS17/pages/index.js": 12,
+      "e6c4b54209fcf75d45a931fcba8bace170dc8d81": 3,
+      "70f637ca7ca6bea329ffa05bd335b2c44e4588f9": 4,
+      "static/bvVVu_Wj83lC6dbuh5Kwo/pages/_app.js": 5,
+      "static/bvVVu_Wj83lC6dbuh5Kwo/pages/_error.js": 6,
+      "static/bvVVu_Wj83lC6dbuh5Kwo/pages/auth.js": 13,
+      "static/bvVVu_Wj83lC6dbuh5Kwo/pages/index.js": 14,
+      "44bc6012bdc93c872a220a7ea44214ae08b866a3": 9,
+      "static/Olwevf7AKO1musbLLKyKK/pages/_app.js": 10,
+      "static/Olwevf7AKO1musbLLKyKK/pages/_error.js": 11,
+      "static/Olwevf7AKO1musbLLKyKK/pages/index.js": 12,
+      "657c6f71645a84309e2b752e8ed533462ec9c234": 3,
+      "static/-Saf_fGd8xJDxJV8Kb8Po/pages/_app.js": 4,
+      "static/-Saf_fGd8xJDxJV8Kb8Po/pages/_error.js": 5,
+      "static/-Saf_fGd8xJDxJV8Kb8Po/pages/index.js": 6,
+      "43eb6d35f9d8884d7d13badb9f897550d849340b": 9,
+      "static/e142PrapENEzVfIVDfEiW/pages/_app.js": 10,
+      "static/e142PrapENEzVfIVDfEiW/pages/_error.js": 11,
+      "static/e142PrapENEzVfIVDfEiW/pages/index.js": 12,
+      "bcc710f55202d16920119d80ce8e180560b0495b": 3,
+      "static/FHPv4kuIJB42Py34Tpb_n/pages/_app.js": 4,
+      "static/FHPv4kuIJB42Py34Tpb_n/pages/_error.js": 5,
+      "static/FHPv4kuIJB42Py34Tpb_n/pages/index.js": 6,
+      "2a0d3cbab93f281edaa1a507e25efd577f456026": 9,
+      "static/jdFiPw54vd3uRCl8O3zqQ/pages/_app.js": 10,
+      "static/jdFiPw54vd3uRCl8O3zqQ/pages/_error.js": 11,
+      "static/jdFiPw54vd3uRCl8O3zqQ/pages/index.js": 12,
+      "1ee6cb488af12d51d58801c93280611f1bcfd228": 3,
+      "static/0eXJByezpz4C52DmxCf-g/pages/_app.js": 4,
+      "static/0eXJByezpz4C52DmxCf-g/pages/_error.js": 5,
+      "static/0eXJByezpz4C52DmxCf-g/pages/index.js": 6,
+      "d83bee62a9a079ee734f10bc863fbb36280ec0ae": 9,
+      "static/HmisIG0D_NtxWH0rgGiw5/pages/_app.js": 10,
+      "static/HmisIG0D_NtxWH0rgGiw5/pages/_error.js": 11,
+      "static/HmisIG0D_NtxWH0rgGiw5/pages/index.js": 12,
+      "e0840c3b2022bb2564553940941434f92700bf3c": 3,
+      "static/cTVZfk17YSOH_jucOT3rI/pages/_app.js": 4,
+      "static/cTVZfk17YSOH_jucOT3rI/pages/_error.js": 5,
+      "static/cTVZfk17YSOH_jucOT3rI/pages/index.js": 6,
+      "ac71b1a033ec1ad8196e974b25a7c9b77cb06efb": 9,
+      "static/bV0e90u86TaacOmZhte0I/pages/_app.js": 10,
+      "static/bV0e90u86TaacOmZhte0I/pages/_error.js": 11,
+      "static/bV0e90u86TaacOmZhte0I/pages/index.js": 12,
+      "410f174000119e9bf27a7a35d9da4c2402d26a43": 3,
+      "static/MBIU5id0Xd2mpkl5AafUK/pages/_app.js": 4,
+      "static/MBIU5id0Xd2mpkl5AafUK/pages/_error.js": 5,
+      "static/MBIU5id0Xd2mpkl5AafUK/pages/index.js": 6,
+      "dd52454688c688e6e96e89813f7b7ae0149fd2c0": 9,
+      "static/OTrYJ0rhafptRXPuSzMTG/pages/_app.js": 10,
+      "static/OTrYJ0rhafptRXPuSzMTG/pages/_error.js": 11,
+      "static/OTrYJ0rhafptRXPuSzMTG/pages/index.js": 12,
+      "67e5d1ab80c43dc5fea648ee2e3836fdde50e9d7": 3,
+      "static/OLsQVDktspWE8mWY8lLLe/pages/_app.js": 4,
+      "static/OLsQVDktspWE8mWY8lLLe/pages/_error.js": 5,
+      "static/OLsQVDktspWE8mWY8lLLe/pages/index.js": 6,
+      "44d5c0a6c274131e2a00f15918a42ebacd1ce2a2": 9,
+      "static/16Xo6N0vlILPeREajfINW/pages/_app.js": 10,
+      "static/16Xo6N0vlILPeREajfINW/pages/_error.js": 11,
+      "static/16Xo6N0vlILPeREajfINW/pages/index.js": 12,
+      "a32bc4e55b87e29c395b993d5db60ce14bf35853": 3,
+      "static/xRL9oLHNZfMMkCCTvJZsO/pages/_app.js": 4,
+      "static/xRL9oLHNZfMMkCCTvJZsO/pages/_error.js": 5,
+      "static/xRL9oLHNZfMMkCCTvJZsO/pages/index.js": 6,
+      "a4bef8b6bea36830e832dc152d3e4f9730348170": 9,
+      "static/9jEjQ4BvTT04z4gU0JILV/pages/_app.js": 10,
+      "static/9jEjQ4BvTT04z4gU0JILV/pages/_error.js": 11,
+      "static/9jEjQ4BvTT04z4gU0JILV/pages/index.js": 12,
+      "1741696f7a067bbd6570222dfc9a3054eb8bbc23": 3,
+      "static/G57EnjgD_fSoHNQ1oGAGl/pages/_app.js": 4,
+      "static/G57EnjgD_fSoHNQ1oGAGl/pages/_error.js": 5,
+      "static/G57EnjgD_fSoHNQ1oGAGl/pages/index.js": 6,
+      "01ebf7d3627256c395af4cddbaa19aa7237349ac": 9,
+      "static/YgYVgHQqWofeVV0Z1VhTA/pages/_app.js": 10,
+      "static/YgYVgHQqWofeVV0Z1VhTA/pages/_error.js": 11,
+      "static/YgYVgHQqWofeVV0Z1VhTA/pages/index.js": 12
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      2,
+      7,
+      8,
+      9
+    ]
+  },
+  "mini-css-extract-plugin node_modules/next/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!node_modules/postcss-loader/src/index.js??__nextjs_postcss!styles/auth.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/next/node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!node_modules/postcss-loader/src/index.js??__nextjs_postcss!styles/main.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+#auth-main-container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.auth-background-tile{
+    background-color: #00629b;
+    height: 100%;
+    flex: 1;
+}
+
+#auth-tile-1{
+    margin-right: 5px;
+}
+
+#auth-tile-2{
+    margin-left: 5px;
+}
+
+#auth-main{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.auth-form-container{
+    width: 400px;
+    height: 500px;
+    background-color: #fff;
+    border-radius: 8px;
+    justify-content: center;
+    align-self: center;
+}
+

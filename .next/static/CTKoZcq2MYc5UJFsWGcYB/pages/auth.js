@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{DTHg:function(n,t,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/auth",function(){return i("hipT")}])},hipT:function(n,t,i){"use strict";i.r(t);var u=i("q1tI"),e=i.n(u).a.createElement;t.default=function(){return e("div",null)}}},[["DTHg",1,2,0]]]);
