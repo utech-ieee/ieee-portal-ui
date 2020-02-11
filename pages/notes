@@ -1,0 +1,18 @@
+-----------------------
+pages/login.js
+-----------------------
+    - style page
+    - Reduce in-component style sheet 
+-----------------------
+
+-----------------------
+pages/register.js
+-----------------------
+    - create page
+    - style page (possible global stylesheet)
+-----------------------
+
+-----------------------------
+components/auth-interface.js
+-----------------------------
+    - Add submit button as a part of auth-interface component
