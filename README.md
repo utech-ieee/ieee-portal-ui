@@ -3,6 +3,7 @@
 </h1>
 
 Want to contribute? See the [contribution guide](https://github.com/utech-ieee/ieee-portal-ui/blob/master/CONTRIBUTING.md)
+
 ## Quick start
 
 1.  **Start developing.**
@@ -11,12 +12,9 @@ Want to contribute? See the [contribution guide](https://github.com/utech-ieee/i
 
     ```shell
     cd ieee-portal-ui
-    yarn start
+    yarn dev
     ```
 
 1.  **Open the source code and start editing!**
 
-    Your site is now running at `http://localhost:4000`!
-
-
-
+    Your site is now running at `http://localhost:3000`!
