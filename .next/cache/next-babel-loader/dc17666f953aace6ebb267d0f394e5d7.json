@@ -1,1 +1,0 @@
-{"ast":null,"code":"var __jsx = React.createElement;\nimport React, { useState, useEffect } from 'react';\nexport default (() => {\n  return __jsx(\"div\", {\n    id: \"auth-main-container\"\n  }, __jsx(\"div\", {\n    class: \"auth-background-tile\"\n  }), __jsx(\"div\", {\n    class: \"auth-background-tile\"\n  }));\n});","map":null,"metadata":{},"sourceType":"module"}
